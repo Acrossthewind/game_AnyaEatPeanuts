@@ -1,4 +1,6 @@
 # 阿尼亚爱吃Peanuts
+## 语言
+纯html+css+js实现的小游戏
 ## 游戏规则
 - 右上角有背景音乐可以选择打开
 - 吃到Peanut的阿尼亚会变换动作（wakuwaku）
